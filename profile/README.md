@@ -1,2 +1,2 @@
-# Medi-AI
+# MediAI
 ## Where technology meet healthcare
