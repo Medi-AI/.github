@@ -1,8 +1,6 @@
-# MediAI
+# MediAI - AI that predicts diseases and connects patients with doctors.
 
 # [mediai.vercel.app](https://mediai.vercel.app)
-
-## Where technology meets healthcare
 
 <br>
 
